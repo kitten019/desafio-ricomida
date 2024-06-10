@@ -1,0 +1,57 @@
+span,.navbar-brand, #p-footer{
+    font-family: "Lobster", sans-serif;
+}
+
+.navbar-brand{    
+    font-size: 37px;
+}
+
+h1, h3, h5{
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:#373A3C;
+}
+
+h1, h3, h5{
+    font-weight: 700;
+}
+
+/* .text, .card-text{
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;      
+} */
+
+#newsletter{
+    background-color: #DC3545;
+}
+
+#h1-newsletter{
+    padding-top: 125px;
+}
+
+#p-newsletter{
+    padding-top: 7px;
+}
+
+#p-newsletter, span{
+    font-size: 25px;
+}
+
+#button-newsletter{
+    margin-bottom: 90px;
+}
+
+footer{
+    background-color: #373A3C;
+}
+
+#p-footer{
+    font-size: 30px;
+}
